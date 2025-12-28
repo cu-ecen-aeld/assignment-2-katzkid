@@ -10,3 +10,4 @@ writer.o : writer.c
 
 clean:
 	rm -rf writer.o writer
+
